@@ -1,5 +1,5 @@
 # CV Objects Pictures Dataset
-A repository with objects photographs, plus background photographs, to train VC systems.
+A repository with objects photographs, plus background photographs, to train CV systems.
 
 It has:
   * Two different backgrounds: "white" bakground, and wooden background.
